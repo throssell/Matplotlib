@@ -1,3 +1,5 @@
+Ploting a line graph using matplotlib for one months worth of weather data from Alaska.
+
 import csv
 from datetime import datetime
 
